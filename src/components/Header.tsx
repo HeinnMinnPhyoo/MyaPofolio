@@ -28,7 +28,7 @@ export function Header() {
             </svg>
           </span>
           <span className="brand__text">
-            <span className="brand__name">{t.hero.name}</span>
+            <span className="brand__name">{t.hero.role}</span>
             <span className="brand__sub">{t.brand}</span>
           </span>
         </a>

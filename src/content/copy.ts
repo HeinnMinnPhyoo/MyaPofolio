@@ -2,7 +2,7 @@ export type Lang = 'en' | 'my'
 
 export const copy = {
   en: {
-    metaTitle: 'N. T. S. · Senior Nurse · Yangon General Hospital',
+    metaTitle: 'Senior Nurse · Yangon General Hospital',
     metaDescription:
       'Senior Nurse (အထက်တန်းသူနာပြု) at Yangon General Hospital with over six years of clinical service and a Bachelor of Nursing Science awarded in March 2026.',
     skip: 'Skip to content',
@@ -20,11 +20,10 @@ export const copy = {
     brand: 'Clinical Portfolio',
     hero: {
       kicker: 'Senior Nurse · Yangon, Myanmar',
-      name: 'N. T. S.',
       role: 'Senior Nurse',
       workplace: 'Yangon General Hospital',
       lead: 'Blue-uniform senior nurse (အထက်တန်းသူနာပြု) with more than six years of clinical service in a tertiary government hospital, strengthened in March 2026 by a Bachelor of Nursing Science. Prepared for international practice and further study.',
-      photoAlt: 'Professional portrait of Senior Nurse N. T. S. in blue uniform',
+      photoAlt: 'Professional portrait of a Senior Nurse in blue uniform at Yangon General Hospital',
     },
     stats: [
       { value: '6+', label: 'Years of clinical service' },
@@ -167,7 +166,7 @@ export const copy = {
     },
   },
   my: {
-    metaTitle: 'N. T. S. · အထက်တန်းသူနာပြု · ရန်ကုန် ဆေးရုံကြီး',
+    metaTitle: 'အထက်တန်းသူနာပြု · ရန်ကုန် ဆေးရုံကြီး',
     metaDescription:
       'ရန်ကုန် ဆေးရုံကြီးတွင် အထက်တန်းသူနာပြု (blue staff) အဖြစ် ၆ နှစ်ကျော် တာဝန်ထမ်းဆောင်ပြီး ၂၀၂၆ ခုနှစ် မတ်လတွင် သူနာပြုသိပ္ပံဘွဲ့ ရရှိထားသူ။',
     skip: 'အကြောင်းအရာသို့ ကျော်ရန်',
@@ -185,11 +184,10 @@ export const copy = {
     brand: 'သူနာပြု Portfolio',
     hero: {
       kicker: 'အထက်တန်းသူနာပြု · ရန်ကုန်၊ မြန်မာ',
-      name: 'N. T. S.',
       role: 'အထက်တန်းသူနာပြု',
       workplace: 'ရန်ကုန် ဆေးရုံကြီး',
       lead: 'တတိယအဆင့် အစိုးရဆေးရုံကြီးတွင် အပြာယူနီဖောင်း အထက်တန်းသူနာပြုအဖြစ် လူနာပြုစုရေး ၆ နှစ်ကျော် လုပ်ကိုင်နေပြီး ၂၀၂၆ ခုနှစ် မတ်လတွင် သူနာပြုသိပ္ပံဘွဲ့ ရရှိထားပါသည်။ နိုင်ငံတကာ လက်တွေ့လုပ်ငန်းခွင်နှင့် ပညာဆက်လက်သင်ကြားရေးအတွက် ပြင်ဆင်ထားပါသည်။',
-      photoAlt: 'အထက်တန်းသူနာပြု N. T. S. ၏ အပြာယူနီဖောင်း ဓာတ်ပုံ',
+      photoAlt: 'ရန်ကုန် ဆေးရုံကြီးတွင် အထက်တန်းသူနာပြု၏ အပြာယူနီဖောင်း ဓာတ်ပုံ',
     },
     stats: [
       { value: '၆+', label: 'နှစ်ကြာ လက်တွေ့တာဝန်' },

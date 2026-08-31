@@ -9,12 +9,8 @@ export function Hero() {
       <div className="hero__grid">
         <div className="hero__copy">
           <p className="hero__kicker">{hero.kicker}</p>
-          <h1>{hero.name}</h1>
-          <p className="hero__role">
-            {hero.role}
-            <span aria-hidden="true"> · </span>
-            {hero.workplace}
-          </p>
+          <h1>{hero.role}</h1>
+          <p className="hero__role">{hero.workplace}</p>
           <p className="hero__lead">{hero.lead}</p>
           <div className="hero__actions no-print-chrome">
             <a className="btn btn--gold" href="#contact">
