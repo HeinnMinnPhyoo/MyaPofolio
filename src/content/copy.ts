@@ -23,7 +23,7 @@ export const copy = {
       role: 'Senior Nurse',
       workplace: 'Yangon General Hospital',
       lead: 'Blue-uniform senior nurse (အထက်တန်းသူနာပြု) with more than six years of clinical service in a tertiary government hospital, strengthened in March 2026 by a Bachelor of Nursing Science. Prepared for international practice and further study.',
-      photoAlt: 'Professional portrait of a Senior Nurse in blue uniform at Yangon General Hospital',
+      photoAlt: 'Professional portrait of a Senior Nurse in white uniform at Yangon General Hospital',
     },
     stats: [
       { value: '6+', label: 'Years of clinical service' },
@@ -187,7 +187,7 @@ export const copy = {
       role: 'အထက်တန်းသူနာပြု',
       workplace: 'ရန်ကုန် ဆေးရုံကြီး',
       lead: 'တတိယအဆင့် အစိုးရဆေးရုံကြီးတွင် အပြာယူနီဖောင်း အထက်တန်းသူနာပြုအဖြစ် လူနာပြုစုရေး ၆ နှစ်ကျော် လုပ်ကိုင်နေပြီး ၂၀၂၆ ခုနှစ် မတ်လတွင် သူနာပြုသိပ္ပံဘွဲ့ ရရှိထားပါသည်။ နိုင်ငံတကာ လက်တွေ့လုပ်ငန်းခွင်နှင့် ပညာဆက်လက်သင်ကြားရေးအတွက် ပြင်ဆင်ထားပါသည်။',
-      photoAlt: 'ရန်ကုန် ဆေးရုံကြီးတွင် အထက်တန်းသူနာပြု၏ အပြာယူနီဖောင်း ဓာတ်ပုံ',
+      photoAlt: 'ရန်ကုန် ဆေးရုံကြီးတွင် အထက်တန်းသူနာပြု၏ အဖြူရောင် ယူနီဖောင်း ဓာတ်ပုံ',
     },
     stats: [
       { value: '၆+', label: 'နှစ်ကြာ လက်တွေ့တာဝန်' },
